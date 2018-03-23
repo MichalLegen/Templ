@@ -1,0 +1,15 @@
+Jump1,sm07930.dom1.e-ssi.net,
+Jump2,sm07931.dom1.e-ssi.net,
+Template_Pass,Iwjg1Kt!,
+PolicyID1,12500001,OSIT
+PolicyID2,19260001,Cert_2.0
+PolicyID3,19300001,Cert_3.0
+PolicyID4,10590001,DDMI
+PolicyID5,18010001,HPOA
+PolicyID6,19280001,QA_Check
+PolicyID7,19290001,SHA Certificates
+PolicyID8,19270001,QAPrep
+PolicyID9,21490001,TSM
+PolicyID10,21500001,UC4P
+PolicyID11,21510001,UC4Q
+PolicyID12,27320001, Citrix_Patch
